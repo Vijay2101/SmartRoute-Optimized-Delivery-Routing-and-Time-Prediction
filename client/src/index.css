@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "leaflet/dist/leaflet.css";
+
+
+:root {
+  font-family: "Poppins", sans-serif;
+  color-scheme: dark;
+}
