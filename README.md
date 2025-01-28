@@ -34,6 +34,7 @@ Steps to Run
   docker-compose up --build
 ```
 - Access the application
+  
 Backend API: ``` http://localhost:8000 ```
 
 Frontend Dashboard: ``` http://localhost:3000 ```
